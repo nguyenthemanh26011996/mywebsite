@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/de/projects/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/projects/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/projects/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/de/projects/design/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/projects/design/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/projects/design/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/projects/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/de/projects/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/projects/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/de/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/de/blog/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/blog/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/blog/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/blog/are-you-doing-the-right-way/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/blog/are-you-doing-the-right-way/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/blog/installation/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/blog/installation/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/blog/simple-blog-post-1/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/blog/simple-blog-post-2/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/blog/simple-blog-post-3/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/blog/simple-blog-post-4/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/blog/simple-blog-post-5/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/blog/simple-blog-post-6/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/blog/simple-blog-post/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/blog/simple-blog-post-1/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/blog/simple-blog-post-2/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/blog/simple-blog-post-3/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/blog/simple-blog-post-4/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/blog/simple-blog-post-5/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/blog/simple-blog-post-6/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/blog/simple-blog-post/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/a-new-year-a-new-posibility/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/inspiration/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/motivation/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/building-an-online-audience/</loc>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/internet/</loc>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tech/</loc>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/business/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/people/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/space-shouldnt-be-the-final-frontier/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/gallery/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/service/</loc>
+    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/caramel-bottle/</loc>
+    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/</loc>
+    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/shopping-bag-concept/</loc>
+    <lastmod>2018-07-12T16:58:55+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/makeup-element/</loc>
+    <lastmod>2018-07-12T16:57:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/table-design/</loc>
+    <lastmod>2018-07-12T16:56:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/bottle-mockup/</loc>
+    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/dew-drop/</loc>
+    <lastmod>2018-07-12T16:53:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/installation/</loc>
+    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/install/</loc>
+    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/de/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/blog/hipser-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/code/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/de/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/coffee/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/images/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/de/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/de/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/english/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/french/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/blog/no-date/</loc>
+  </url>
+  
+</urlset>
